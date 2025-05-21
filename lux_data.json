@@ -1,0 +1,583 @@
+{
+    "L01": {
+        "side": "LH",
+        "lux_value": 51.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L02": {
+        "side": "LH",
+        "lux_value": 65.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L03": {
+        "side": "LH",
+        "lux_value": 69.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L04": {
+        "side": "LH",
+        "lux_value": 68.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L05": {
+        "side": "LH",
+        "lux_value": 43.8,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L06": {
+        "side": "LH",
+        "lux_value": 67.2,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L07": {
+        "side": "LH",
+        "lux_value": 64.1,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L08": {
+        "side": "LH",
+        "lux_value": 56.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L09": {
+        "side": "LH",
+        "lux_value": 52.8,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L10": {
+        "side": "LH",
+        "lux_value": 57.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L11": {
+        "side": "LH",
+        "lux_value": 64.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L12": {
+        "side": "LH",
+        "lux_value": 88.8,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L13": {
+        "side": "LH",
+        "lux_value": 47.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L14": {
+        "side": "LH",
+        "lux_value": 59.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L15": {
+        "side": "LH",
+        "lux_value": 51.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L16": {
+        "side": "LH",
+        "lux_value": 45.8,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L17": {
+        "side": "LH",
+        "lux_value": 36.8,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L18": {
+        "side": "LH",
+        "lux_value": 51.2,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L19": {
+        "side": "LH",
+        "lux_value": 53.8,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L20": {
+        "side": "LH",
+        "lux_value": 62.1,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L21": {
+        "side": "LH",
+        "lux_value": 49.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L22": {
+        "side": "LH",
+        "lux_value": 30.6,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L23": {
+        "side": "LH",
+        "lux_value": 50.2,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L24": {
+        "side": "LH",
+        "lux_value": 50.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L25": {
+        "side": "LH",
+        "lux_value": 51.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L26": {
+        "side": "LH",
+        "lux_value": 57.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L27": {
+        "side": "LH",
+        "lux_value": 98.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L28": {
+        "side": "LH",
+        "lux_value": 64.4,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L29": {
+        "side": "LH",
+        "lux_value": 60.6,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L30": {
+        "side": "LH",
+        "lux_value": 61.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L31": {
+        "side": "LH",
+        "lux_value": 79.9,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "L32": {
+        "side": "LH",
+        "lux_value": 36.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R01": {
+        "side": "RH",
+        "lux_value": 62.2,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R02": {
+        "side": "RH",
+        "lux_value": 60.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R03": {
+        "side": "RH",
+        "lux_value": 57.1,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R04": {
+        "side": "RH",
+        "lux_value": 65.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R05": {
+        "side": "RH",
+        "lux_value": 60.3,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R06": {
+        "side": "RH",
+        "lux_value": 51.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R07": {
+        "side": "RH",
+        "lux_value": 91.2,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R08": {
+        "side": "RH",
+        "lux_value": 75.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R09": {
+        "side": "RH",
+        "lux_value": 64.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R10": {
+        "side": "RH",
+        "lux_value": 59.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R11": {
+        "side": "RH",
+        "lux_value": 68.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R12": {
+        "side": "RH",
+        "lux_value": 88.4,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R13": {
+        "side": "RH",
+        "lux_value": 77.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R14": {
+        "side": "RH",
+        "lux_value": 74.6,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R15": {
+        "side": "RH",
+        "lux_value": 64.8,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R16": {
+        "side": "RH",
+        "lux_value": 69.6,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R17": {
+        "side": "RH",
+        "lux_value": 88.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R18": {
+        "side": "RH",
+        "lux_value": 78.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R19": {
+        "side": "RH",
+        "lux_value": 63.6,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R20": {
+        "side": "RH",
+        "lux_value": 74.2,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R21": {
+        "side": "RH",
+        "lux_value": 72.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R22": {
+        "side": "RH",
+        "lux_value": 87.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R23": {
+        "side": "RH",
+        "lux_value": 84.4,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R24": {
+        "side": "RH",
+        "lux_value": 69.2,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R25": {
+        "side": "RH",
+        "lux_value": 71.2,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R26": {
+        "side": "RH",
+        "lux_value": 54.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R27": {
+        "side": "RH",
+        "lux_value": 64.9,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R28": {
+        "side": "RH",
+        "lux_value": 36.9,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R29": {
+        "side": "RH",
+        "lux_value": 52.1,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R30": {
+        "side": "RH",
+        "lux_value": 59.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R31": {
+        "side": "RH",
+        "lux_value": 85.6,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R32": {
+        "side": "RH",
+        "lux_value": 86.4,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R33": {
+        "side": "RH",
+        "lux_value": 43.6,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R34": {
+        "side": "RH",
+        "lux_value": 67.4,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R35": {
+        "side": "RH",
+        "lux_value": 75.3,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R36": {
+        "side": "RH",
+        "lux_value": 59.4,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R37": {
+        "side": "RH",
+        "lux_value": 60.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R38": {
+        "side": "RH",
+        "lux_value": 97.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R39": {
+        "side": "RH",
+        "lux_value": 34.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R40": {
+        "side": "RH",
+        "lux_value": 47.9,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R41": {
+        "side": "RH",
+        "lux_value": 74.9,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R42": {
+        "side": "RH",
+        "lux_value": 66.8,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R43": {
+        "side": "RH",
+        "lux_value": 62.9,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R44": {
+        "side": "RH",
+        "lux_value": 94.1,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R45": {
+        "side": "RH",
+        "lux_value": 71.0,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R46": {
+        "side": "RH",
+        "lux_value": 57.2,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R47": {
+        "side": "RH",
+        "lux_value": 50.8,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R48": {
+        "side": "RH",
+        "lux_value": 16.5,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R49": {
+        "side": "RH",
+        "lux_value": 86.3,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R50": {
+        "side": "RH",
+        "lux_value": 93.7,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    },
+    "R51": {
+        "side": "RH",
+        "lux_value": 85.9,
+        "condition": "Raining (Door Closed)",
+        "date": "2025-05-08 00:00:00",
+        "time": "14:20:00"
+    }
+}

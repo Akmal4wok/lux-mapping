@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LUX Mapping Web</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>LUX Mapping Overview</h1>
+  <div id="map-container">
+    <img src="layout1.png" alt="Layout Map" class="layout-img" id="mapImage">
+    <div id="points-container"></div>
+  </div>
+  <div id="info-box" class="hidden"></div>
+
+  <script>
+    const luxData = {
+      "L01": { lux: 120, condition: "Daylight", side: "Left", location: "Receiving" },
+      "L02": { lux: 85, condition: "Rain", side: "Right", location: "Workshop" },
+      "L03": { lux: 70, condition: "Daylight", side: "Middle", location: "MM-Mechanism" },
+      "L04": { lux: 95, condition: "Rain", side: "Left", location: "MM-Reciving" },
+      "L05": { lux: 110, condition: "Daylight", side: "Right", location: "Supermarket" }
+      // Add more LUX points based on your Excel
+    };
+
+    const pointPositions = {
+      "L01": { top: "80px", left: "150px" },
+      "L02": { top: "180px", left: "250px" },
+      "L03": { top: "260px", left: "300px" },
+      "L04": { top: "120px", left: "400px" },
+      "L05": { top: "200px", left: "500px" }
+      // Add more positions matching your layout image
+    };
+
+    const container = document.getElementById("points-container");
+
+    Object.entries(pointPositions).forEach(([id, pos]) => {
+      const div = document.createElement("div");
+      div.className = "map-point";
+      div.style.top = pos.top;
+      div.style.left = pos.left;
+      div.textContent = id;
+      div.onclick = () => showInfo(id);
+      container.appendChild(div);
+    });
+
+    function showInfo(id) {
+      const info = luxData[id];
+      const box = document.getElementById("info-box");
+      if (info) {
+        box.innerHTML = `
+          <h3>${id}</h3>
+          <p><strong>LUX:</strong> ${info.lux}</p>
+          <p><strong>Condition:</strong> ${info.condition}</p>
+          <p><strong>Side:</strong> ${info.side}</p>
+          <p><strong>Location:</strong> ${info.location}</p>
+        `;
+        box.classList.remove("hidden");
+      }
+    }
+  </script>
+</body>
+</html>
